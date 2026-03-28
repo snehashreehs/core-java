@@ -1,0 +1,55 @@
+class JavaKeywordsAll {
+    public static void main(String[] args) {
+
+        System.out.println("double");
+        System.out.println("class");
+        System.out.println("void");
+        System.out.println("int");
+        System.out.println("static")");
+        System.out.println("public");
+        System.out.println("float");
+        System.out.println("char");
+        System.out.println("long");
+        System.out.println("boolean");
+        System.out.println("short");
+        System.out.println("byte");
+        System.out.println("else");
+        System.out.println("if");
+        System.out.println("switch");
+        System.out.println("case");
+        System.out.println("default");
+        System.out.println("break");
+        System.out.println("continue");
+        System.out.println("for");
+        System.out.println("while");
+        System.out.println("do");
+        System.out.println("return");
+        System.out.println("new");
+        System.out.println("this");
+        System.out.println("super");
+        System.out.println("extends");
+        System.out.println("implements");
+        System.out.println("import");
+        System.out.println("package");
+        System.out.println("private");
+        System.out.println("protected");
+        System.out.println("final");
+        System.out.println("finally");
+        System.out.println("try");
+        System.out.println("catch");
+        System.out.println("throw");
+        System.out.println("throws");
+        System.out.println("abstract");
+        System.out.println("interface");
+        System.out.println("instanceof");
+        System.out.println("native");
+        System.out.println("strictfp");
+        System.out.println("synchronized");
+        System.out.println("transient");
+        System.out.println("volatile");
+        System.out.println("enum");
+        System.out.println("assert");
+        System.out.println("goto");
+        System.out.println("const");
+    }
+}

@@ -1,24 +1,34 @@
 class Swigg {
 
-    String foodName;
     String restaurantName;
+    String foodItem;
     int price;
+    int quantity;
+    String deliveryType;
 
-    public Swigg() {
-    }
-
-   
-    public Swigg(String foodName, String restaurantName, int price) {
-        this.foodName = foodName;
+    public Swigg(String restaurantName, String foodItem) {
         this.restaurantName = restaurantName;
-        this.price = price;
+        this.foodItem = foodItem;
+
+        System.out.println("Order from " + restaurantName + ": " + foodItem);
     }
 
- 
-    public void display() {
-        System.out.println(foodName);
-        System.out.println(restaurantName);
-        System.out.println(price);
-        System.out.println("----------------------");
+  
+    public Swigg(String restaurantName, String foodItem, int price, int quantity) {
+        this.restaurantName = restaurantName;
+        this.foodItem = foodItem;
+        this.price = price;
+        this.quantity = quantity;
+
+        System.out.println(foodItem + " costs " + price + " x " + quantity);
+    }
+
+  
+    public Swigg(String restaurantName, String foodItem, String deliveryType) {
+        this.restaurantName = restaurantName;
+        this.foodItem = foodItem;
+        this.deliveryType = deliveryType;
+
+        System.out.println("Delivery Type: " + deliveryType + " for " + foodItem);
     }
 }

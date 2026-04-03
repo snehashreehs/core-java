@@ -1,4 +1,4 @@
-class ProductRunner {
+class PproductRunner {
 
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-class Product {
+class Pproduct {
 
     String name;
     String brand;

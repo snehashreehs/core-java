@@ -1,0 +1,29 @@
+class  mobile{
+
+String name;
+String brand ;
+int price;
+int rate;
+String  color;
+
+ mobile  dispaly();
+ 
+ new. String name =String name;
+ new.String brand = String brand
+ new .int price=int price;
+ new .int rate= int rate
+ new. String color=String color;
+ 
+ mobile
+ 
+ 
+ 
+  
+ 
+  
+
+}
+  
+
+
+}

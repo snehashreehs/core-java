@@ -1,4 +1,0 @@
-class smartWatch{
-
-String brnad;
-}

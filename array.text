@@ -1,0 +1,16 @@
+class student{
+
+student name;
+student id;
+student college name;
+
+public static void main(String []args){
+ student()
+
+
+
+}
+
+
+
+}

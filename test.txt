@@ -1,2 +1,0 @@
-what is java
-  java is object orineted proframming languge, high level interprinted languge.
